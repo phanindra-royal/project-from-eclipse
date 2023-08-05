@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T17:43:10 IST" name="Suite" finished-at="2023-08-04T17:43:21 IST" duration-ms="10325">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T17:43:10 IST" name="Test" finished-at="2023-08-04T17:43:21 IST" duration-ms="10325">
+      <class name="mavan.Testngone">
+        <test-method signature="openApp()[pri:1, instance:mavan.Testngone@3c19aaa5]" started-at="2023-08-04T17:43:10 IST" name="openApp" finished-at="2023-08-04T17:43:14 IST" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="loginApp()[pri:2, instance:mavan.Testngone@3c19aaa5]" started-at="2023-08-04T17:43:14 IST" name="loginApp" finished-at="2023-08-04T17:43:14 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="logoutApp()[pri:3, instance:mavan.Testngone@3c19aaa5]" started-at="2023-08-04T17:43:14 IST" name="logoutApp" finished-at="2023-08-04T17:43:14 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method signature="closeApp()[pri:4, instance:mavan.Testngone@3c19aaa5]" started-at="2023-08-04T17:43:14 IST" name="closeApp" finished-at="2023-08-04T17:43:15 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- mavan.Testngone -->
+      <class name="mavan.Testngtwo">
+        <test-method signature="openApp()[pri:1, instance:mavan.Testngtwo@799f10e1]" started-at="2023-08-04T17:43:15 IST" name="openApp" finished-at="2023-08-04T17:43:18 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="waitforsometime()[pri:2, instance:mavan.Testngtwo@799f10e1]" started-at="2023-08-04T17:43:18 IST" name="waitforsometime" finished-at="2023-08-04T17:43:20 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforsometime -->
+        <test-method signature="closeApp()[pri:3, instance:mavan.Testngtwo@799f10e1]" started-at="2023-08-04T17:43:20 IST" name="closeApp" finished-at="2023-08-04T17:43:21 IST" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- mavan.Testngtwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
